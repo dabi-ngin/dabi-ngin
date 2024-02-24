@@ -1,6 +1,6 @@
 # ⌨️ Sam
 
-**`Tinkerer (Developer/Keyboard Builder/Maths Enjoyer)`**
+**`Developer/Keyboard Builder/Maths Enjoyer`**
 
 I'm a software developer and keyboard enthusiast crunching my way through learning as much as I can about the wide world of tech, one step at a time. All of my public coding projects have in some part been a venture in exploring some technology out of curiosity, there is little pattern or sense to it other than me seeing something and thinking "hey, this looks cool, how does it work?". 
 
